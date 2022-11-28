@@ -11,9 +11,9 @@ B. Cara run programnya
 2. Kalau terminal-nya udah muncul dibagian bawah layar, kalian klik icon "+" buat bikin terminal baru lagi (Jadi terminalnya nanti ada tiga, 
 itu buat Client Satu, Client Dua, sama Server)
 3. Nah pertama sebelum di run kalian compile dulu tiap class nya. Compilenya di mulai dari server yaa, ketik command kaya gini di dalem terminal-nya :
-(baris pertama) javac Server.java
+(baris pertama) javac Server.java ,
 (baris kedua) java Server
 4. Terminal kedua sama ketiga (yg dimana ini buat client ygy) isi pake command kaya gini :
-(baris pertama) javac Client.java
+(baris pertama) javac Client.java , 
 (baris kedua) java Client
 5. Nah udah deh kalian bisa cobain programnya
